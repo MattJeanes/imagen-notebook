@@ -1,0 +1,14 @@
+{
+	"build": {
+	  "dockerfile": "Dockerfile"
+	},
+	"runArgs": ["--gpus=all"],
+	"mounts": [
+		"type=bind,source=C:\\temp,target=/content"
+	],
+	"extensions": [
+		"ms-python.python",
+		"ms-toolsai.jupyter",
+		"ms-toolsai.jupyter-renderers"
+	]
+}
