@@ -9,4 +9,4 @@ A port of the notebook in https://github.com/lucidrains/imagen-pytorch/issues/24
 
 # Credit
 
-Many thanks to @Mimocro for creating the original colab notebook 🙂
+Many thanks to @Mimocro for creating the original colab notebook, @lucidrains for the imagen-pytorch implementation and the Google Research, Brain Team for imagen itself! 🙂
